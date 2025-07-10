@@ -1,7 +1,4 @@
-**Realtime Spotify Application**
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
+<h1>Realtime Spotify Application</h1>
 
 About This Course:
 
